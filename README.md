@@ -31,6 +31,15 @@ A C program that:
 
 Use this to run on low-power devices like **Raspberry Pi Zero** or **ESP32 with Linux**.
 
+### 2. `lidar_sim_tcp_bin.c`
+
+A C program that:
+- Continuously reads LiDAR data from a serial port OR generates simulated data in the appropriate format.
+- Parses the proprietary frame format of the M1C1-mini.
+- Shares the latest frame via a TCP socket (default port: **9999**).
+
+Use this to run on low-power devices like **Raspberry Pi Zero** or **ESP32 with Linux**.
+
 ### 2. `Lidar_Client_TCP_Bin.py`
 
 A Python script that:
