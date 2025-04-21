@@ -13,7 +13,7 @@ This project provides a complete system for reading and visualizing data from th
 - **Range:** Up to 8 meters
 - **Data Rate:** ~5 Hz (adjustable)
 - **Connection:** UART at 115200 baud
-- **Datasheet:** [Download PDF](https://github.com/your-repo-here/M1C1_Mini_Datasheet.pdf) *(Chinese original, translated via Google Translate)*
+- **Datasheet:** [Download PDF](M1C1_Mini_Datasheet.pdf) *(Chinese original, translated to Brazilian Portuguese via Google Translate)*
 
 The LiDAR used in this project was acquired via AliExpress:  
 🔗 [AliExpress Product Link](https://www.aliexpress.com/snapshot/0.html?spm=a2g0o.9042647.6.2.559e37a1jYP0hF&orderId=8133980903635463&productId=4000251359842)
